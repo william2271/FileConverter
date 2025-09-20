@@ -5,7 +5,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
 public class FileConverterApplication {
-//starzs
+//starz
 	public static void main(String[] args) {
 		SpringApplication.run(FileConverterApplication.class, args);
 	}
